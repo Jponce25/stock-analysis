@@ -47,7 +47,9 @@ This last loop is the one that contains the 3 conditionals that generate the gre
 
 Our initial code took 0.69 seconds to run for 2017 and 0.67 seconds for 2018.
 
-(imagen de los tiempos)
+![](https://github.com/Jponce25/kickstarter-analysis/blob/d17dfe4eaebafb5b6607eb76df45564b17bf6887/images/AnalysisGoals1.png)
+
+**Refactored Code**
 
 In the refactored code we reduce the load using a unique loop with a index variable (tickerIndex) for iterating through all the rows. This unique loop gets the volume and the starting and ending price for each ticker. 
 
