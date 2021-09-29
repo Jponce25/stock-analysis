@@ -47,7 +47,8 @@ This last loop is the one that contains the 3 conditionals that generate the gre
 
 Our initial code took 0.69 seconds to run for 2017 and 0.67 seconds for 2018.
 
-![](https://github.com/Jponce25/stock-analysis/blob/901cc303cfb80172de8e7450aa90c8f999ef7634/resources/VBA_FirstCode.png)
+![](https://github.com/Jponce25/stock-analysis/blob/e10f67474d2d153e38005abe6e22efa7c83f8a44/resources/VBA_FirstCode_2017.png)
+![](https://github.com/Jponce25/stock-analysis/blob/e10f67474d2d153e38005abe6e22efa7c83f8a44/resources/VBA_FirstCode_2018.png)
 
 **Refactored Code**
 
