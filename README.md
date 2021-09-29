@@ -12,7 +12,7 @@ As we need to have the greatest amount of information available to make a decisi
 
 From the results obtained, we can deduce that 2017 was positive for green energy stocks, 11 of the 12 stocks had a positive return and four of them (DQ, ENPH, FSLR and SEDG) obtained a return above 100%. 
 
-However, during 2018, 10 of the 12 stocks had a negative return, only two (ENPH ​​and RUN) obtained a positive return. Interestingly, we can also observe that the average of the Total Daily Volume is higher in 2018 than in 2017, which could indicate that 2018 was a negative year for all investments in general even despite having greater yearly volume. 
+However, during 2018, 10 of the 12 stocks had a negative return, only two (ENPH ​​and RUN) obtained a positive return. Also we can observe that the average of the Total Daily Volume is higher in 2018 than in 2017, which could indicate that 2018 was a negative year for all investments in general even despite having greater yearly volume. 
 
 (imagen)
 
