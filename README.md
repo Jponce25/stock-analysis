@@ -14,7 +14,7 @@ From the results obtained, we can deduce that 2017 was positive for green energy
 
 However, during 2018, 10 of the 12 stocks had a negative return, only two (ENPH ​​and RUN) obtained a positive return. Also we can observe that the average of the Total Daily Volume is higher in 2018 than in 2017, which could indicate that 2018 was a negative year for all investments in general even despite having greater yearly volume. 
 
-(imagen)
+![](https://github.com/Jponce25/stock-analysis/blob/901cc303cfb80172de8e7450aa90c8f999ef7634/resources/Stocks%20comparison.png)
 
 ### Execution times comparison between original script and the refactored script.
 
@@ -47,7 +47,7 @@ This last loop is the one that contains the 3 conditionals that generate the gre
 
 Our initial code took 0.69 seconds to run for 2017 and 0.67 seconds for 2018.
 
-![](https://github.com/Jponce25/kickstarter-analysis/blob/d17dfe4eaebafb5b6607eb76df45564b17bf6887/images/AnalysisGoals1.png)
+![](https://github.com/Jponce25/stock-analysis/blob/901cc303cfb80172de8e7450aa90c8f999ef7634/resources/VBA_FirstCode.png)
 
 **Refactored Code**
 
@@ -76,7 +76,8 @@ In the refactored code we reduce the load using a unique loop with a index varia
     
 After we refactored the code the run time was reduced to only 0.086 seconds for 2017 and 0.088 seconds for 2018, generating a much faster code.
 
-(imagen de los tiempos)
+![](https://github.com/Jponce25/stock-analysis/blob/901cc303cfb80172de8e7450aa90c8f999ef7634/resources/VBA_Challenge_2017.png)
+![](https://github.com/Jponce25/stock-analysis/blob/901cc303cfb80172de8e7450aa90c8f999ef7634/resources/VBA_Challenge_2018.png)
 
 ## Summary
 
